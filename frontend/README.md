@@ -1,3 +1,12 @@
+# To run the project
+# Terminal 1 
+cd backend
+node index.js
+
+# Terminal 2
+cd frontend
+npm run dev
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
