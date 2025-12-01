@@ -1,0 +1,15 @@
+export const CLOTHES = {
+    baseball_cap: "/clothes/baseball-cap.png",
+    pants: "/clothes/brown-pants",
+    jacket: "/clothes/jacket.png",
+    jeans: "/clothes/jeans.png",
+    puffer_jacket: "/clothes/puffer-jacket.png",
+    rainjacket: "/clothes/rainjacket.png",
+    scarf: "/clothes/scarf.png",
+    shorts: "/clothes/shorts.png",
+    skipants: "/clothes/skipants.png",
+    sweater: "/clothes/sweater.png",
+    tshirt: "/clothes/t-shirt.png",
+    tanktop: "/clothes/tank-top.png",
+    winterhat: "/clothes/winter-hat.png",
+}
